@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ender axolotl gitf model
+* source:	https://sketchfab.com/3d-models/ender-axolotl-gitf-model-afce2ad5b4c24210910bd5c70c13faa9
+* author:	Sreyx (https://sketchfab.com/andrei21222324)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ender axolotl gitf model" (https://sketchfab.com/3d-models/ender-axolotl-gitf-model-afce2ad5b4c24210910bd5c70c13faa9) by Sreyx (https://sketchfab.com/andrei21222324) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
